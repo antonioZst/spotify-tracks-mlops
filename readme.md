@@ -6,3 +6,5 @@ Accuracy, F1 y ROC-AUC.
 
 Modelo SVM.
 algoritmo.
+
+Modelo principal: SVM
